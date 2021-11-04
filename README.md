@@ -7,4 +7,4 @@
 fizzbuzz in Golang
 
 ## License
-[Mozilla Public License v2.0](https://github.com/brokeyourbike/go-fizz-your-buzzp/blob/main/LICENSE)
+[Mozilla Public License v2.0](https://github.com/brokeyourbike/go-fizz-your-buzz/blob/main/LICENSE)
