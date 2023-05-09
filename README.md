@@ -1,6 +1,6 @@
 # go-fizz-your-buzz
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/brokeyourbike/go-fizz-your-buzz)(https://goreportcard.com/report/github.com/brokeyourbike/go-fizz-your-buzz)
+[![Go Report Card](https://goreportcard.com/badge/github.com/brokeyourbike/go-fizz-your-buzz)](https://goreportcard.com/report/github.com/brokeyourbike/go-fizz-your-buzz)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e02d023d929ab07902ec/maintainability)](https://codeclimate.com/github/brokeyourbike/go-fizz-your-buzz/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/e02d023d929ab07902ec/test_coverage)](https://codeclimate.com/github/brokeyourbike/go-fizz-your-buzz/test_coverage)
 
